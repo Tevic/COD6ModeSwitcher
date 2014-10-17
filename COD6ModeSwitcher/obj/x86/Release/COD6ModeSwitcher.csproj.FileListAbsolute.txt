@@ -1,0 +1,33 @@
+D:\Course\C#\COD6ModeSwitcher\COD6ModeSwitcher\bin\Release\COD6ModeSwitcher.exe
+D:\Course\C#\COD6ModeSwitcher\COD6ModeSwitcher\bin\Release\COD6ModeSwitcher.pdb
+D:\Course\C#\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Course\C#\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\COD6ModeSwitcher.Form1.resources
+D:\Course\C#\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\COD6ModeSwitcher.Properties.Resources.resources
+D:\Course\C#\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Course\C#\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Course\C#\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\COD6ModeSwitcher.exe
+D:\Course\C#\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\COD6ModeSwitcher.pdb
+D:\Course\C#\COD6ModeSwitcher - 副本\COD6ModeSwitcher\obj\x86\Release\COD6ModeSwitcher.exe
+D:\Course\C#\COD6ModeSwitcher - 副本\COD6ModeSwitcher\obj\x86\Release\COD6ModeSwitcher.pdb
+D:\Course\C#\COD6ModeSwitcher - 副本\COD6ModeSwitcher\bin\Release\COD6ModeSwitcher.exe
+D:\Course\C#\COD6ModeSwitcher - 副本\COD6ModeSwitcher\bin\Release\COD6ModeSwitcher.pdb
+D:\Course\C#\COD6ModeSwitcher - 副本\COD6ModeSwitcher\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Course\C#\COD6ModeSwitcher - 副本\COD6ModeSwitcher\obj\x86\Release\COD6ModeSwitcher.Form1.resources
+D:\Course\C#\COD6ModeSwitcher - 副本\COD6ModeSwitcher\obj\x86\Release\COD6ModeSwitcher.Properties.Resources.resources
+D:\Course\C#\COD6ModeSwitcher - 副本\COD6ModeSwitcher\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Course\C#\COD6ModeSwitcher - 副本\COD6ModeSwitcher\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Course\C#\COD6ModeSwitcher\COD6ModeSwitcher\bin\Release\COD6ModeSwitcher.exe.config
+D:\Course\C#\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Course\C#\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Developer\Project\COD6ModeSwitcher\COD6ModeSwitcher\bin\Release\COD6ModeSwitcher.exe.config
+D:\Developer\Project\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\COD6ModeSwitcher.exe
+D:\Developer\Project\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\COD6ModeSwitcher.pdb
+D:\Developer\Project\COD6ModeSwitcher\COD6ModeSwitcher\bin\Release\COD6ModeSwitcher.exe
+D:\Developer\Project\COD6ModeSwitcher\COD6ModeSwitcher\bin\Release\COD6ModeSwitcher.pdb
+D:\Developer\Project\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Developer\Project\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\COD6ModeSwitcher.Form1.resources
+D:\Developer\Project\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\COD6ModeSwitcher.Properties.Resources.resources
+D:\Developer\Project\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Developer\Project\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Developer\Project\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Developer\Project\COD6ModeSwitcher\COD6ModeSwitcher\obj\x86\Release\GenerateResource.write.1.tlog
